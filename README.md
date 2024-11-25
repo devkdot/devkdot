@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devkdot
 - 👀 I’m interested in development, technlogies, blockchain, AI and aeronautics
-- 🌱 I’m currently learning rust and blockchain
-- 💞️ I’m looking to collaborate on go, rust, blockchain
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate challenging projects because constraints breeds innovation
 - 📫 Contact: empty
 
 <!---
